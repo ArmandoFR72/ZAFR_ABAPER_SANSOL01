@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Exponer CDS Articulos'
+define service Zafr_ss_SD_Art1 {
+  expose zafr_ss_cds_Arts1;
+}
